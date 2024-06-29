@@ -1,4 +1,4 @@
-##HELLO There 👋!!! I am Kavya, happy to meet you !!
+## HELLO There 👋!!! I am Kavya, happy to meet you !!
 
 I'm a B.Tech Graduate and a Data Science enthusiast from Amity University, Noida:
 
